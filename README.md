@@ -4,10 +4,10 @@ Alasan utama mengapa "Nadine's Komputer: hey hey" tercetak lebih dulu adalah kar
 
 ## REFLEKSI 1.3 ##
 
-Gambar untuk kode yang ada drop spawn
+Gambar untuk eksekusi yang ada drop spawn
 ![alt text](image.png)
 
-Gambar untuk kode yang tidak ada drop spawn
+Gambar untuk eksekusi yang tidak ada drop spawn
 ![alt text](image-1.png)
 
 Penjelasan:
